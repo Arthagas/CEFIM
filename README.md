@@ -1,2 +1,0 @@
-# CEFIM
-Ma présentation
