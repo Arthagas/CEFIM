@@ -1,0 +1,76 @@
+/*
+style.css
+---------
+ 
+Par Yannice MALLERON
+*/
+
+
+header
+{
+	text-align: left-side;
+	background-color: rgb(104,149,167);
+	height: 110px;
+	font-size: 16px;
+
+    display: flex;
+    flex-direction: column;
+	justify-content: center;
+	
+
+
+	
+}
+
+section
+{
+	margin-left: 200px;
+	max-width : 1200px;
+
+}
+
+article
+{
+
+	margin-top : 10px;
+	margin-bottom : 10px;
+	background-color: rgb(232,239,246);
+}
+
+h1
+{
+	font-family: "Arial", sans-serif;
+	font-size: 60px;
+
+}
+
+
+h2
+{
+	font-family: "Arial", sans-serif;
+	color: rgb(104,149,167);
+
+}
+
+
+p, ul
+{
+    font-family: "Arial", sans-serif;
+
+	
+}
+
+
+footer
+{
+	text-align: center;
+	background-color: rgb(104,149,167);
+	height: 110px;
+	
+	display: flex;
+    flex-direction: column;
+	justify-content: center;
+
+
+}
+
